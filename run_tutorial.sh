@@ -3,8 +3,6 @@ set -x
 #Sanity check
 echo $DO_DEMO
 
-printf "maybe copying to write directoy now!?"
-
 if [ "$DO_DEMO" = "1" ] 
 then
 
